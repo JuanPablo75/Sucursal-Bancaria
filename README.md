@@ -1,4 +1,4 @@
-# Sucursal-Bancaria</br>
-Sucursal Bancaria Básica con Interfaz Gráfica</br>
-Interfaz gráfica que conecta a una base de datos. </br>
-Simula una interfaz (super básica) con JPanels de un 'banco' en la que se puede crear cuentas, borrarlas, ingresar, retirar y transferir 'dinero' con métodos encapsulados.</br>
+# Bank Branch Simulator</br>
+Basic Banking Branch with Graphical Interface
+Graphical interface that connects to a database.
+Simulates a (super basic) interface with JPanels of a 'bank' where you can create accounts, delete them, deposit, withdraw and transfer 'money' with encapsulated methods.
